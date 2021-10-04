@@ -1,0 +1,9 @@
+Las contraseñas de la base de datos son:
+
+Usuario: almacenero password: almacenero
+
+usuario: vendedor password:vendedor
+
+usuario:jcarlosad7 password: *jucardi7
+
+Revise el curso completo para entender mejor.
